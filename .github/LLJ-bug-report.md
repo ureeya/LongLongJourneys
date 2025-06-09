@@ -1,6 +1,6 @@
 ---
 name: LLJ Report
-about: Create a report to help us improve the aged modpack
+about: Report bugs you encountered while using the modpack
 title: "[REPORT]"
 labels: bug
 assignees: ureeya
